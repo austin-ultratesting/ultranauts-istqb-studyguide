@@ -1,0 +1,2342 @@
+[
+  {
+    "front": "A/B testing",
+    "back": "A test approach in which two components or systems are statistically evaluated to determine which performs better for specified criteria."
+  },
+  {
+    "front": "abnormal end",
+    "back": "The unintended termination of the execution of a component or system prior to completion."
+  },
+  {
+    "front": "abuse case",
+    "back": "A use case in which some actors with malicious intent are causing harm to the system or to other actors."
+  },
+  {
+    "front": "acceptance criteria",
+    "back": "The criteria that a work product must satisfy to be accepted by the stakeholders."
+  },
+  {
+    "front": "acceptance test-driven development",
+    "back": "A collaboration-based test-first approach that defines acceptance tests in the stakeholders' domain language."
+  },
+  {
+    "front": "acceptance testing",
+    "back": "A test level that focuses on determining whether to accept the system."
+  },
+  {
+    "name": "accessibility",
+    "back": "The degree to which a component or system can be used by people with the widest range of characteristics and capabilities to achieve a specified goal in a specified context of use."
+  },
+  {
+    "front": "account harvesting",
+    "back": "The process of obtaining user account information based on trial and error with the intention of using that information in a security attack."
+  },
+  {
+    "name": "accountability",
+    "back": "The degree to which the actions of an entity can be traced uniquely to that entity."
+  },
+  {
+    "front": "actual result",
+    "back": "The behavior produced/observed when a component or system is tested."
+  },
+  {
+    "front": "ad hoc review",
+    "back": "A review technique performed informally without a structured process."
+  },
+  {
+    "front": "ad hoc testing",
+    "back": "Informal testing performed without test analysis and test design."
+  },
+  {
+    "name": "adaptability",
+    "back": "The degree to which a component or system can be adapted for different or evolving hardware, software or other operational or usage environments."
+  },
+  {
+    "front": "adversarial example",
+    "back": "An input to an ML model created by applying small perturbations to a working example that results in the model outputting an incorrect result with high confidence."
+  },
+  {
+    "front": "adversarial testing",
+    "back": "A test technique based on the attempted creation and execution of adversarial examples to identify defects in an ML model."
+  },
+  {
+    "front": "Agile Manifesto",
+    "back": "A statement on the values that underpin Agile software development. The values are: individuals and interactions over processes and tools, working software over comprehensive documentation, customer collaboration over contract negotiation, responding to change over following a plan."
+  },
+  {
+    "front": "Agile software development",
+    "back": "A group of software development methodologies based on iterative incremental development, where requirements and solutions evolve through collaboration between self-organizing cross-functional teams."
+  },
+  {
+    "front": "Agile test leader",
+    "back": "A leadership role that serves agile teams, championing testing and quality at the organizational level."
+  },
+  {
+    "front": "Agile test team leader",
+    "back": "A role that is responsible for maintaining solution quality within an agile delivery team."
+  },
+  {
+    "front": "alpha testing",
+    "back": "A type of acceptance testing performed in the developer's test environment by roles outside the development organization."
+  },
+  {
+    "front": "analytical test strategy",
+    "back": "A test strategy whereby the test team analyzes the test basis to identify the test conditions to cover."
+  },
+  {
+    "name": "analyzability",
+    "back": "The degree to which an assessment can be made for a component or system of either the impact of one or more intended changes, the diagnosis of deficiencies or causes of failures, or the identification of parts to be modified."
+  },
+  {
+    "name": "anomaly",
+    "back": "A condition that deviates from expectation."
+  },
+  {
+    "front": "anti-malware",
+    "back": "Software that is used to detect and inhibit malware."
+  },
+  {
+    "front": "API testing",
+    "back": "A test approach performed by submitting requests to a test object using its application programming interface."
+  },
+  {
+    "front": "application programming interface",
+    "back": "A type of interface in which the components or systems involved exchange information in a defined formal structure."
+  },
+  {
+    "name": "appraisal",
+    "back": "The activities of measuring and monitoring the quality of a system."
+  },
+  {
+    "front": "appropriateness recognizability",
+    "back": "The degree to which users can recognize whether a component or system is appropriate for their needs."
+  },
+  {
+    "name": "assertion",
+    "back": "A Boolean expression that is expected to evaluate to true if and only if the software executes correctly."
+  },
+  {
+    "front": "atomic condition",
+    "back": "A condition that does not contain logical operators."
+  },
+  {
+    "front": "attack vector",
+    "back": "A path or means by which an attacker can gain access to a system for malicious purposes."
+  },
+  {
+    "name": "attacker",
+    "back": "A person or process that attempts to access data, functions or other restricted areas of the system without authorization, potentially with malicious intent."
+  },
+  {
+    "front": "audio testing",
+    "back": "Testing to determine if the game music and sound effects will engage the user in the game and enhance the game play."
+  },
+  {
+    "name": "audit",
+    "back": "An independent examination of a work product or process performed by a third party to assess whether it complies with specifications, standards, contractual agreements, or other criteria."
+  },
+  {
+    "name": "authentication",
+    "back": "A procedure determining whether a person or a process is, in fact, who or what it is declared to be."
+  },
+  {
+    "name": "authenticity",
+    "back": "The degree to which the identity of a subject or resource can be proved to be the one claimed."
+  },
+  {
+    "name": "authorization",
+    "back": "Permission given to a user or process to access resources."
+  },
+  {
+    "front": "automation code defect density",
+    "back": "Defect density of a component of the test automation code."
+  },
+  {
+    "front": "automotive safety integrity level",
+    "back": "One of four levels that specify the item's or element's necessary requirements of ISO 26262 and safety measures to avoid an unreasonable residual risk."
+  },
+  {
+    "front": "automotive SPICE",
+    "back": "A process reference model and an associated process assessment model in the automotive industry."
+  },
+  {
+    "name": "availability",
+    "back": "The degree to which a component or system is operational and accessible when required for use."
+  },
+  {
+    "front": "back-to-back testing",
+    "back": "Testing to compare two or more variants of a test item or a simulation model of the same test item by executing the same test cases on all variants and comparing the results."
+  },
+  {
+    "front": "behavior-driven development",
+    "back": "A collaborative approach to development in which the team is focusing on delivering expected behavior of a component or system for the customer, which forms the basis for testing."
+  },
+  {
+    "front": "beta testing",
+    "back": "A type of acceptance testing performed at an external site to the developer's test environment by roles outside the development organization."
+  },
+  {
+    "front": "black-box test technique",
+    "back": "A test technique based on an analysis of the specification of a component or system."
+  },
+  {
+    "front": "black-box testing",
+    "back": "Testing based on an analysis of the specification of the component or system."
+  },
+  {
+    "name": "botnet",
+    "back": "A network of compromised computers, called bots or robots, which is controlled by a third party and used to transmit malware or spam, or to launch attacks."
+  },
+  {
+    "front": "boundary value",
+    "back": "A minimum or maximum value of an ordered equivalence partition."
+  },
+  {
+    "front": "boundary value analysis",
+    "back": "A black-box test technique in which test cases are designed based on boundary values."
+  },
+  {
+    "name": "branch",
+    "back": "A transfer of control between two consecutive nodes in the control flow graph of a test item."
+  },
+  {
+    "front": "branch coverage",
+    "back": "The coverage of branches in a control flow graph."
+  },
+  {
+    "front": "branch testing",
+    "back": "A white-box test technique in which the test conditions are branches."
+  },
+  {
+    "front": "bug hunting",
+    "back": "A test approach in which gamification and awards for defects found are used as a motivator."
+  },
+  {
+    "front": "build verification test",
+    "back": "An automated test that validates the integrity of each new build and verifies its key/core functionality, stability, and testability."
+  },
+  {
+    "front": "built-in quality",
+    "back": "A set of practices to ensure that each solution meets quality standards throughout each increment of development, focusing on constructive quality assurance as a shared responsibility."
+  },
+  {
+    "front": "Capability Maturity Model Integration",
+    "back": "A framework that describes the key elements of an effective product development and maintenance process. The Capability Maturity Model Integration covers best-practices for planning, engineering and managing product development and maintenance."
+  },
+  {
+    "name": "capacity",
+    "back": "The degree to which the maximum limits of a component or system parameter meet requirements."
+  },
+  {
+    "front": "capacity testing",
+    "back": "Testing to evaluate the capacity of a system."
+  },
+  {
+    "front": "capture/playback",
+    "back": "A test automation approach in which inputs to a test object are recorded during manual testing to generate automated test scripts that can be executed later."
+  },
+  {
+    "front": "causal loop diagram",
+    "back": "A graphical representation used to visualize cause-effect relationships and feedback loops in a system."
+  },
+  {
+    "front": "cause-effect diagram",
+    "back": "A graphical representation used to organize and display the interrelationships of various possible root causes of a problem. Possible causes of a real or potential defect or failure are organized in categories and subcategories in a horizontal tree-structure, with the (potential) defect or failure as the root node."
+  },
+  {
+    "front": "cause-effect graph",
+    "back": "A graphical representation of logical relationships between inputs (causes) and their associated outputs (effects) of a test object."
+  },
+  {
+    "name": "certification",
+    "back": "The process of confirming that a component, system or person complies with specified requirements."
+  },
+  {
+    "front": "change-related testing",
+    "back": "A type of testing initiated by modification to a component or system."
+  },
+  {
+    "front": "checklist-based review",
+    "back": "A review technique guided by a list of questions or required attributes."
+  },
+  {
+    "front": "checklist-based testing",
+    "back": "An experience-based test technique in which test cases are designed to exercise the items of a checklist."
+  },
+  {
+    "front": "classification tree",
+    "back": "A tree diagram representing test data domains of a test object."
+  },
+  {
+    "front": "classification tree technique",
+    "back": "A black-box test technique in which test cases are designed using a classification tree."
+  },
+  {
+    "front": "CLI testing",
+    "back": "Testing performed by submitting commands to the software under test using a dedicated command-line interface."
+  },
+  {
+    "front": "closed-loop-system",
+    "back": "A system in which the controlling action or input is dependent on the output or changes in output."
+  },
+  {
+    "front": "code injection",
+    "back": "A type of security attack performed by inserting malicious code at an interface into an application to exploit poor handling of untrusted data."
+  },
+  {
+    "front": "coding standard",
+    "back": "A standard that describes the characteristics of a design or a design description of data or program components."
+  },
+  {
+    "name": "coexistence",
+    "back": "The degree to which a component or system can perform its required functions while sharing an environment and resources with other components or systems without a negative impact on any of them."
+  },
+  {
+    "front": "collaboration-based test approach",
+    "back": "An approach to testing that focuses on defect avoidance by collaborating among stakeholders."
+  },
+  {
+    "front": "combinatorial testing",
+    "back": "A black-box test technique in which test conditions are specific combinations of values of several parameters."
+  },
+  {
+    "front": "command-line interface",
+    "back": "A type of interface in which the information is passed in form of command lines."
+  },
+  {
+    "front": "commercial off-the-shelf",
+    "back": "A type of product developed in an identical format for a large number of customers in the general market."
+  },
+  {
+    "name": "compatibility",
+    "back": "The degree to which a component or system can exchange information with other components or systems, and/or perform its required functions while sharing the same hardware or software environment."
+  },
+  {
+    "name": "compliance",
+    "back": "Adherence of a work product to standards, conventions or regulations in laws and similar prescriptions."
+  },
+  {
+    "front": "compliance testing",
+    "back": "Testing to determine the compliance of the component or system."
+  },
+  {
+    "name": "component",
+    "back": "A part of a system that can be tested in isolation."
+  },
+  {
+    "front": "component integration testing",
+    "back": "The integration testing of components."
+  },
+  {
+    "front": "component testing",
+    "back": "A test level that focuses on individual hardware or software components."
+  },
+  {
+    "front": "computer forensics",
+    "back": "The practice of determining how a security attack has succeeded and assessing the damage caused."
+  },
+  {
+    "name": "concurrency",
+    "back": "The simultaneous execution of multiple independent threads by a component or system."
+  },
+  {
+    "front": "concurrency testing",
+    "back": "Testing to evaluate if a component or system involving concurrency behaves as specified."
+  },
+  {
+    "front": "condition coverage",
+    "back": "The coverage of condition outcomes."
+  },
+  {
+    "front": "condition testing",
+    "back": "A white-box test technique in which test conditions are outcomes of atomic conditions."
+  },
+  {
+    "front": "confidence interval",
+    "back": "In managing project risks, the period of time within which a contingency action must be implemented in order to be effective in reducing the impact of the risk."
+  },
+  {
+    "name": "confidentiality",
+    "back": "The degree to which a component or system ensures that data are accessible only to those authorized to have access."
+  },
+  {
+    "front": "configuration management",
+    "back": "A discipline applying technical and administrative direction and surveillance to identify and document the functional and physical characteristics of a configuration item, control changes to those characteristics, record and report change processing and implementation status, and verify that it complies with specified requirements."
+  },
+  {
+    "front": "confirmation testing",
+    "back": "A type of change-related testing performed after fixing a defect to confirm that a failure caused by that defect does not reoccur."
+  },
+  {
+    "name": "connectivity",
+    "back": "The degree to which a component or system can connect to other components or systems."
+  },
+  {
+    "front": "consultative test strategy",
+    "back": "A test strategy whereby the test team relies on the input of one or more key stakeholders to determine the details of the strategy."
+  },
+  {
+    "front": "context of use",
+    "back": "Users, tasks, equipment (hardware, software and materials), and the physical and social environments in which a software product is used."
+  },
+  {
+    "front": "continuous integration",
+    "back": "An automated software development procedure that merges, integrates and tests all changes as soon as they are committed."
+  },
+  {
+    "front": "continuous testing",
+    "back": "A test approach that involves testing early, testing often, testing throughout the software development lifecycle, and automating to obtain feedback on the business risks associated with a software release candidate as soon as possible."
+  },
+  {
+    "front": "contract testing",
+    "back": "A type of integration testing that verifies that the interfaces are used as specified in their contracts."
+  },
+  {
+    "front": "contractual acceptance testing",
+    "back": "A type of acceptance testing performed to verify whether a system satisfies its contractual requirements."
+  },
+  {
+    "front": "control chart",
+    "back": "A statistical process control tool used to monitor a process and determine whether it is statistically controlled. It graphically depicts the average value and the upper and lower control limits (the highest and lowest values) of a process."
+  },
+  {
+    "front": "control flow",
+    "back": "The sequence in which operations are performed by a business process, component or system."
+  },
+  {
+    "front": "control flow analysis",
+    "back": "A type of static analysis based on a representation of unique paths for executing a component or system."
+  },
+  {
+    "front": "convergence metric",
+    "back": "A metric that shows progress toward a defined criterion, e.g., convergence of the total number of tests executed to the total number of tests planned for execution."
+  },
+  {
+    "front": "cost of quality",
+    "back": "The total costs incurred on quality activities and issues and often split into prevention costs, appraisal costs, internal failure costs and external failure costs."
+  },
+  {
+    "name": "coverage",
+    "back": "The degree to which specified coverage items are exercised by a test suite, expressed as a percentage."
+  },
+  {
+    "front": "coverage criteria",
+    "back": "The criteria to define the coverage items required to reach a test objective."
+  },
+  {
+    "front": "coverage item",
+    "back": "An attribute or combination of attributes derived from one or more test conditions by using a test technique."
+  },
+  {
+    "front": "Critical Testing Processes",
+    "back": "A content-based model for test process improvement built around twelve critical processes. These include highly visible processes, by which peers and management judge competence and mission-critical processes in which performance affects the company's profits and reputation."
+  },
+  {
+    "front": "cross-browser compatibility",
+    "back": "The degree to which a website or web application can function across different browsers and degrade gracefully when browser features are absent or lacking."
+  },
+  {
+    "front": "cross-site scripting",
+    "back": "A vulnerability that allows attackers to inject malicious code into an otherwise benign website."
+  },
+  {
+    "front": "crowd testing",
+    "back": "A test approach in which testing is distributed to a large group of testers."
+  },
+  {
+    "front": "custom tool",
+    "back": "A software tool developed specifically for a set of users or customers."
+  },
+  {
+    "front": "cyclomatic complexity",
+    "back": "The maximum number of linear, independent paths through a program."
+  },
+  {
+    "name": "dashboard",
+    "back": "A representation of dynamic measurements of operational performance for some organization or activity, using metrics represented via metaphors such as visual dials, counters, and other devices resembling those on the dashboard of an automobile, so that the effects of events or activities can be easily understood and related to operational goals."
+  },
+  {
+    "front": "data flow analysis",
+    "back": "A type of static analysis based on the lifecycle of variables."
+  },
+  {
+    "front": "data obfuscation",
+    "back": "Data transformation that makes it difficult for a human to recognize the original data."
+  },
+  {
+    "front": "data privacy",
+    "back": "The protection of personally identifiable information or otherwise sensitive information from undesired disclosure."
+  },
+  {
+    "front": "data-driven testing",
+    "back": "A scripting technique that uses data files to contain the test data and expected results needed to execute the test scripts."
+  },
+  {
+    "name": "debugging",
+    "back": "The process of finding, analyzing and removing the causes of failures in a component or system."
+  },
+  {
+    "front": "decision coverage",
+    "back": "The coverage of decision outcomes."
+  },
+  {
+    "front": "decision table testing",
+    "back": "A black-box test technique in which test cases are designed to exercise the combinations of conditions and the resulting actions shown in a decision table."
+  },
+  {
+    "front": "decision testing",
+    "back": "A white-box test technique in which test cases are designed to execute decision outcomes."
+  },
+  {
+    "name": "defect",
+    "back": "An imperfection or deficiency in a work product where it does not meet its requirements or specifications or impairs its intended use."
+  },
+  {
+    "front": "defect density",
+    "back": "The number of defects per unit size of a work product."
+  },
+  {
+    "front": "Defect Detection Percentage",
+    "back": "The number of defects found by a test level, divided by the number found by that test level and any other means afterwards."
+  },
+  {
+    "front": "defect management",
+    "back": "The process of recognizing, recording, classifying, investigating, fixing and disposing of defects."
+  },
+  {
+    "front": "defect management committee",
+    "back": "A cross-functional team of stakeholders who perform defect management."
+  },
+  {
+    "front": "defect prevention",
+    "back": "The measures that reduce the likelihood of recurrence of defects in work products and limit the propagation of defects in subsequent work products."
+  },
+  {
+    "front": "defect report",
+    "back": "Documentation of the occurrence, nature, and status of a defect."
+  },
+  {
+    "front": "defect taxonomy",
+    "back": "A list of categories designed to identify and classify defects."
+  },
+  {
+    "front": "defect workflow",
+    "back": "The sequence of defect states."
+  },
+  {
+    "front": "defect-based test technique",
+    "back": "A test technique in which test cases are developed from what is known about a specific defect type."
+  },
+  {
+    "front": "definition-use pair",
+    "back": "The association of a definition of a variable with the subsequent use of that variable."
+  },
+  {
+    "front": "demilitarized zone",
+    "back": "A physical or logical subnetwork that contains and exposes an organization's external-facing services to an untrusted network, commonly the Internet."
+  },
+  {
+    "front": "denial of service",
+    "back": "A security attack that is intended to overload the system with requests such that legitimate requests cannot be serviced."
+  },
+  {
+    "front": "device-based testing",
+    "back": "A type of testing in which test suites are executed on physical or virtual devices."
+  },
+  {
+    "name": "driver",
+    "back": "A component or tool that temporarily replaces another component and controls or calls a test item in isolation."
+  },
+  {
+    "front": "dynamic analysis",
+    "back": "The process of evaluating a component or system based on its behavior during execution."
+  },
+  {
+    "front": "dynamic testing",
+    "back": "Testing that involves the execution of the test item."
+  },
+  {
+    "name": "effectiveness",
+    "back": "The extent to which correct and complete goals are achieved."
+  },
+  {
+    "name": "efficiency",
+    "back": "The degree to which resources are expended in relation to results achieved."
+  },
+  {
+    "front": "EFQM model",
+    "back": "A management framework that supports organisations in managing change and improving performance."
+  },
+  {
+    "name": "emulator",
+    "back": "Software used during testing that mimics the behavior of hardware."
+  },
+  {
+    "name": "encryption",
+    "back": "The process of encoding information so that only authorized parties can retrieve the original information, usually by means of a specific decryption key or process."
+  },
+  {
+    "front": "end-to-end testing",
+    "back": "A type of testing in which business processes are tested from start to finish under production-like circumstances."
+  },
+  {
+    "front": "endurance testing",
+    "back": "Testing to determine the stability of a system under a significant load over a significant period of time within the system's operational context."
+  },
+  {
+    "front": "entry criteria",
+    "back": "The set of conditions for officially starting a defined task."
+  },
+  {
+    "front": "environment model",
+    "back": "An abstraction of the real environment of a component or system including other components, processes, and environment conditions, in a real-time simulation."
+  },
+  {
+    "name": "epic",
+    "back": "A large user story that cannot be delivered as defined within a single iteration or is large enough that it can be split into smaller user stories."
+  },
+  {
+    "front": "equivalence partition",
+    "back": "A subset of the value domain of a variable within a component or system in which all values are expected to be treated the same based on the specification."
+  },
+  {
+    "front": "equivalence partitioning",
+    "back": "A black-box test technique in which test conditions are equivalence partitions exercised by one representative member of each partition."
+  },
+  {
+    "front": "equivalent manual test effort",
+    "back": "Effort required for running tests manually."
+  },
+  {
+    "front": "ergonomics testing",
+    "back": "Testing to determine whether a component or system and its input devices are being used properly with correct posture."
+  },
+  {
+    "name": "error",
+    "back": "A human action that produces an incorrect result."
+  },
+  {
+    "front": "error guessing",
+    "back": "A test technique in which tests are derived on the basis of the tester's knowledge of past failures, or general knowledge of failure modes."
+  },
+  {
+    "front": "escaped defect",
+    "back": "A defect that was not detected by a testing activity that is supposed to find that defect."
+  },
+  {
+    "front": "ethical hacker",
+    "back": "A security tester using hacker techniques."
+  },
+  {
+    "front": "exhaustive testing",
+    "back": "A test approach in which the test suite comprises all combinations of input values and preconditions."
+  },
+  {
+    "front": "exit criteria",
+    "back": "The set of conditions for officially completing a defined task."
+  },
+  {
+    "front": "expected result",
+    "back": "The observable predicted behavior of a test item under specified conditions based on its test basis."
+  },
+  {
+    "front": "experience-based test technique",
+    "back": "A test technique based on the tester's experience, knowledge and intuition."
+  },
+  {
+    "front": "experience-based testing",
+    "back": "Testing based on the tester's experience, knowledge and intuition."
+  },
+  {
+    "front": "expert usability review",
+    "back": "An informal usability review in which the reviewers are experts. Experts can be usability experts or subject matter experts, or both."
+  },
+  {
+    "front": "exploratory testing",
+    "back": "An approach to testing in which the testers dynamically design and execute tests based on their knowledge, exploration of the test item and the results of previous tests."
+  },
+  {
+    "front": "external failure",
+    "back": "A failure that occurs during the regular operation of a system after its delivery to the end users."
+  },
+  {
+    "name": "failed",
+    "back": "The status of a test result if the actual result does not match the expected result."
+  },
+  {
+    "name": "failover",
+    "back": "The backup operational mode in which the functions of a system that becomes unavailable are assumed by a secondary system."
+  },
+  {
+    "name": "failure",
+    "back": "An event in which a component or system does not meet its requirements within specified limits."
+  },
+  {
+    "front": "failure mode",
+    "back": "The physical or functional manifestation of a failure."
+  },
+  {
+    "front": "failure mode and effect analysis",
+    "back": "A systematic approach to risk identification and analysis of identifying possible modes of failure and attempting to prevent their occurrence."
+  },
+  {
+    "front": "failure rate",
+    "back": "The ratio of the number of failures of a given category to a given unit of measure."
+  },
+  {
+    "front": "false-negative result",
+    "back": "A test result which fails to identify a defect that is actually present in a test object."
+  },
+  {
+    "front": "false-positive result",
+    "back": "A test result in which a defect is reported although no such defect actually exists in the test object."
+  },
+  {
+    "front": "fault attack",
+    "back": "A test technique to evaluate a specific quality characteristic of a test object by attempting to trigger specific failures."
+  },
+  {
+    "front": "fault injection",
+    "back": "The process of intentionally adding a defect to a component or system to determine whether it can detect and possibly recover from it."
+  },
+  {
+    "front": "fault seeding",
+    "back": "The process of intentionally adding defects to a component or system to monitor the rate of detection and removal, and to estimate the number of defects remaining."
+  },
+  {
+    "front": "fault tolerance",
+    "back": "The degree to which a component or system operates as intended despite the presence of hardware or software faults."
+  },
+  {
+    "front": "fault tree analysis",
+    "back": "A technique for analyzing the causes of failures that uses a hierarchical model of events and their logical relationships."
+  },
+  {
+    "front": "feature-driven development",
+    "back": "An iterative and incremental software development process driven from a client-valued functionality (feature) perspective. Feature-driven development is mostly used in Agile software development."
+  },
+  {
+    "front": "field testing",
+    "back": "A test level performed to evaluate the system behavior in an operational environment."
+  },
+  {
+    "name": "finding",
+    "back": "A result of an evaluation that identifies some important issue, problem, or opportunity."
+  },
+  {
+    "name": "firewall",
+    "back": "A component or set of components that controls incoming and outgoing network traffic based on predetermined security rules."
+  },
+  {
+    "front": "follow-up test case",
+    "back": "A test case generated by applying a metamorphic relation to a source test case during metamorphic testing."
+  },
+  {
+    "front": "formal review",
+    "back": "A review that follows a defined process with a formally documented output."
+  },
+  {
+    "front": "formative evaluation",
+    "back": "A type of evaluation designed and used to improve the quality of a component or system, especially when it is still being designed."
+  },
+  {
+    "front": "functional appropriateness",
+    "back": "The degree to which the functions facilitate the accomplishment of specified tasks and objectives."
+  },
+  {
+    "front": "functional completeness",
+    "back": "The degree to which the set of functions covers all the specified tasks and user objectives."
+  },
+  {
+    "front": "functional correctness",
+    "back": "The degree to which a component or system provides the correct results with the needed degree of precision."
+  },
+  {
+    "front": "functional safety",
+    "back": "The absence of unreasonable risk due to hazards caused by malfunctioning behavior of Electric/Electronic(E/E) - Systems."
+  },
+  {
+    "front": "functional suitability",
+    "back": "The degree to which a component or system provides functions that meet stated and implied needs when used under specified conditions."
+  },
+  {
+    "front": "functional testing",
+    "back": "Testing performed to evaluate if a component or system satisfies functional requirements."
+  },
+  {
+    "front": "fuzz testing",
+    "back": "A software testing technique used to discover security vulnerabilities by inputting massive amounts of random data, called fuzz, to the component or system."
+  },
+  {
+    "front": "generic test automation architecture",
+    "back": "A representation of the layers, components, and interfaces that allows for a structured and modular approach to implement test automation."
+  },
+  {
+    "front": "graphical user interface",
+    "back": "A type of interface that allows users to interact with a component or system through graphical icons and visual indicators."
+  },
+  {
+    "front": "GUI testing",
+    "back": "A test approach performed by interacting with a test object using a graphical user interface."
+  },
+  {
+    "name": "hacker",
+    "back": "A person or organization who is actively involved in security attacks, usually with malicious intent."
+  },
+  {
+    "front": "hardware in the loop",
+    "back": "Dynamic testing performed using real hardware with integrated software in a simulated environment."
+  },
+  {
+    "name": "hashing",
+    "back": "Transformation of a variable length string of characters into a usually shorter fixed-length value or key. Hashed values, or hashes, are commonly used in table or database lookups. Cryptographic hash functions are used to secure data."
+  },
+  {
+    "name": "heuristic",
+    "back": "A generally recognized rule of thumb that helps to achieve a goal."
+  },
+  {
+    "front": "heuristic evaluation",
+    "back": "A usability review technique that evaluates a work product by using a set of heuristics."
+  },
+  {
+    "front": "high-level test case",
+    "back": "A test case with abstract preconditions, input data, expected results, postconditions, and actions (where applicable)."
+  },
+  {
+    "front": "human-centered design",
+    "back": "An approach to design that aims to make software products more usable by focusing on the use of the software products and applying human factors, ergonomics, and usability knowledge and techniques."
+  },
+  {
+    "front": "hybrid software development model",
+    "back": "A type of software development lifecycle model that combines elements of different software development lifecycle models."
+  },
+  {
+    "name": "hyperlink",
+    "back": "A pointer within a web page that leads to other web pages."
+  },
+  {
+    "front": "hypothesis testing",
+    "back": "The validation of a theory and its assumptions using sample data"
+  },
+  {
+    "front": "impact analysis",
+    "back": "The identification of all work products affected by a change, including an estimate of the resources needed to accomplish the change."
+  },
+  {
+    "front": "incremental development model",
+    "back": "A type of software development lifecycle model in which the component or system is developed through a series of increments."
+  },
+  {
+    "front": "independence of testing",
+    "back": "Separation of responsibilities, which encourages the accomplishment of objective testing."
+  },
+  {
+    "front": "independent test lab",
+    "back": "An organization responsible to test and certify that the software, hardware, firmware, platform, and operating system follow all the jurisdictional rules for each location where the product will be used."
+  },
+  {
+    "front": "informal review",
+    "back": "A type of review that does not follow a defined process and has no formally documented output."
+  },
+  {
+    "front": "information assurance",
+    "back": "Measures that protect and defend information and information systems by ensuring their availability, integrity, authentication, confidentiality, and non-repudiation. These measures include providing for restoration of information systems by incorporating protection, detection, and reaction capabilities."
+  },
+  {
+    "front": "input data testing",
+    "back": "A test level that focuses on the quality of the data used for training and prediction by ML models."
+  },
+  {
+    "front": "insider threat",
+    "back": "A security threat originating from within the organization, often by an authorized system user."
+  },
+  {
+    "front": "insourced testing",
+    "back": "Testing performed by people who are co-located with the project team but are not fellow employees."
+  },
+  {
+    "name": "inspection",
+    "back": "A type of formal review that uses defined team roles and measurement to identify defects in a work product, and improve the review process and the software development process."
+  },
+  {
+    "name": "installability",
+    "back": "The degree to which a component or system can be successfully installed and/or uninstalled in a specified environment."
+  },
+  {
+    "front": "integration testing",
+    "back": "A test level that focuses on interactions between components or systems."
+  },
+  {
+    "name": "integrity",
+    "back": "The degree to which a component or system allows only authorized access and modification to a component, a system or data."
+  },
+  {
+    "front": "interface testing",
+    "back": "A type of integration testing performed to determine whether components or systems pass data and control correctly to one another."
+  },
+  {
+    "front": "internal failure",
+    "back": "A failure that occurs during the operation of a system before its delivery to the end users."
+  },
+  {
+    "name": "internationalization",
+    "back": "The process of making a system suitable for international user groups."
+  },
+  {
+    "name": "interoperability",
+    "back": "The degree to which two or more components or systems can exchange information and use the information that has been exchanged."
+  },
+  {
+    "front": "intrusion detection system",
+    "back": "A system which monitors activities on the 7 layers of the OSI model from network to application level, to detect violations of the security policy."
+  },
+  {
+    "front": "iterative development model",
+    "back": "A type of software development lifecycle model in which the component or system is developed through a series of repeated cycles."
+  },
+  {
+    "front": "keyword-driven testing",
+    "back": "A scripting technique in which test scripts contain high-level keywords and supporting files that contain low-level scripts that implement those keywords."
+  },
+  {
+    "name": "learnability",
+    "back": "The degree to which a component or system can be used by specified users to achieve specified goals of learning with satisfaction and freedom from risk in a specified context of use."
+  },
+  {
+    "front": "level of intrusion",
+    "back": "The level to which a test object is modified by adjusting it for testability."
+  },
+  {
+    "front": "level test plan",
+    "back": "A test plan that typically addresses one test level."
+  },
+  {
+    "front": "linear scripting",
+    "back": "A simple scripting technique without any control structure in the test scripts."
+  },
+  {
+    "front": "load generation",
+    "back": "The process of simulating a defined set of activities at a specified load to be submitted to a component or system."
+  },
+  {
+    "front": "load generator",
+    "back": "A tool that generates a load for a system under test."
+  },
+  {
+    "front": "load management",
+    "back": "The control and execution of load generation, and performance monitoring and reporting of the component or system."
+  },
+  {
+    "front": "load profile",
+    "back": "Documentation defining a designated number of virtual users who process a defined set of transactions in a specified time period that a component or system being tested may experience in production."
+  },
+  {
+    "front": "load testing",
+    "back": "A type of performance testing conducted to evaluate the behavior of a component or system under varying loads, usually between anticipated conditions of low, typical, and peak usage."
+  },
+  {
+    "name": "localization",
+    "back": "The process of making a system suitable for a specific user group."
+  },
+  {
+    "front": "low-level test case",
+    "back": "A test case with concrete values for preconditions, input data, expected results, postconditions, and a detailed description of actions (where applicable)."
+  },
+  {
+    "name": "maintainability",
+    "back": "The degree to which a component or system can be modified by the intended maintainers."
+  },
+  {
+    "name": "maintenance",
+    "back": "The process of modifying a component or system after delivery to correct defects, improve quality characteristics, or adapt to a changed environment."
+  },
+  {
+    "front": "maintenance testing",
+    "back": "Testing the changes to an operational system or the impact of a changed environment to an operational system."
+  },
+  {
+    "name": "malware",
+    "back": "Software that is intended to harm a system or its components."
+  },
+  {
+    "front": "malware scanning",
+    "back": "Static analysis aiming to detect and remove malicious code received at an interface."
+  },
+  {
+    "front": "management review",
+    "back": "A systematic evaluation of software acquisition, supply, development, operation, or maintenance process, performed by or on behalf of management that monitors progress, determines the status of plans and schedules, confirms requirements and their system allocation, or evaluates the effectiveness of management approaches to achieve fitness for purpose."
+  },
+  {
+    "front": "manufacturing-based quality",
+    "back": "A view of quality measured by the degree that a product or service conforms to its intended design and requirements based on the process used."
+  },
+  {
+    "front": "master test plan",
+    "back": "A test plan that is used to coordinate multiple test levels or test types."
+  },
+  {
+    "front": "math testing",
+    "back": "Testing to determine the correctness of the pay table implementation, the random number generator results, and the return to player computations."
+  },
+  {
+    "name": "maturity",
+    "back": "(1) The capability of an organization with respect to the effectiveness and efficiency of its processes and work practices. (2) The degree to which a component or system meets needs for reliability under normal operation."
+  },
+  {
+    "front": "MBT model",
+    "back": "Any model used in model-based testing."
+  },
+  {
+    "front": "mean time between failures",
+    "back": "The average time between consecutive failures of a component or system."
+  },
+  {
+    "front": "mean time to failure",
+    "back": "The average time from the start of operation to a failure for a component or system."
+  },
+  {
+    "front": "mean time to repair",
+    "back": "The average time a component or system will take to recover from a failure."
+  },
+  {
+    "name": "measurement",
+    "back": "The process of assigning a number or category to an entity to describe an attribute of that entity."
+  },
+  {
+    "front": "memory leak",
+    "back": "A memory access failure due to a defect in a program's dynamic store allocation logic that causes it to fail to release memory after it has finished using it."
+  },
+  {
+    "front": "metamorphic relation",
+    "back": "A description of how a change in the test inputs from the source test case to the follow-up test case affects a change in the expected outputs from the source test case to the follow-up test case."
+  },
+  {
+    "front": "metamorphic testing",
+    "back": "A test technique in which the inputs and expected results are extrapolated from a passing test case using a metamorphic relation."
+  },
+  {
+    "front": "method table",
+    "back": "A table containing different test approaches, testing techniques and test types that are required depending on the Automotive Safety Integrity Level (ASIL) and on the context of the test object."
+  },
+  {
+    "front": "methodical test strategy",
+    "back": "A test strategy whereby the test team uses a pre-determined set of test conditions such as a quality standard, a checklist, or a collection of generalized, logical test conditions which may relate to a particular domain, application or type of testing."
+  },
+  {
+    "name": "metric",
+    "back": "A measurement scale and the method used for measurement."
+  },
+  {
+    "front": "ML functional performance",
+    "back": "The degree to which an ML model meets ML functional performance criteria."
+  },
+  {
+    "front": "ML functional performance criteria",
+    "back": "Criteria based on ML functional performance metrics used as a basis for model evaluation, tuning and testing."
+  },
+  {
+    "front": "ML functional performance metrics",
+    "back": "A set of measures that relate to the functional correctness of an ML system."
+  },
+  {
+    "front": "ML model",
+    "back": "An implementation of machine learning (ML) that generates a prediction, classification or recommendation based on input data."
+  },
+  {
+    "front": "ML model testing",
+    "back": "A test level that focuses on the ability of an ML model to meet required ML functional performance criteria and non-functional criteria."
+  },
+  {
+    "name": "mock",
+    "back": "A type of test double that simulates the expected behavior of the component during testing."
+  },
+  {
+    "front": "model coverage",
+    "back": "The coverage of model elements."
+  },
+  {
+    "front": "model in the loop",
+    "back": "Dynamic testing performed using a simulation model of the system in a simulated environment."
+  },
+  {
+    "front": "model-based test strategy",
+    "back": "A test strategy whereby the test team derives testware from models."
+  },
+  {
+    "front": "model-based testing",
+    "back": "Testing based on or involving models."
+  },
+  {
+    "name": "moderator",
+    "back": "(1) The person responsible for running review meetings. (2) The person who performs a usability test session."
+  },
+  {
+    "name": "modifiability",
+    "back": "The degree to which a component or system can be modified without degrading its quality."
+  },
+  {
+    "front": "modified condition/decision coverage",
+    "back": "The coverage of all outcomes of the atomic conditions that independently affect the overall decision outcome."
+  },
+  {
+    "front": "modified condition/decision testing",
+    "back": "A white-box test technique in which test cases are designed to exercise outcomes of atomic conditions that independently affect a decision outcome."
+  },
+  {
+    "name": "modularity",
+    "back": "The degree to which a system is composed of discrete components such that a change to one component has minimal impact on other components."
+  },
+  {
+    "front": "monitoring tool",
+    "back": "A software tool or hardware device that runs concurrently with the component or system under test and supervises, records and/or analyzes the behavior of the component or system."
+  },
+  {
+    "front": "multiplayer testing",
+    "back": "Testing to determine if many players can simultaneously interact with the casino game world, with computer-controlled opponents, game servers, and with each other, as expected according to the game design."
+  },
+  {
+    "front": "multiple condition coverage",
+    "back": "The coverage of all possible combinations of all single condition outcomes within one statement."
+  },
+  {
+    "front": "multiple condition testing",
+    "back": "A white-box test technique in which test cases are designed to exercise outcome combinations of atomic conditions."
+  },
+  {
+    "front": "Myers-Briggs Type Indicator",
+    "back": "An indicator of psychological preference representing the different personalities and communication styles of people."
+  },
+  {
+    "front": "N-switch coverage",
+    "back": "The coverage of sequences of N+1 transitions."
+  },
+  {
+    "front": "negative testing",
+    "back": "A type of testing in which a component or system is used in a way that it is not intended."
+  },
+  {
+    "front": "neighborhood integration testing",
+    "back": "A type of integration testing in which all of the nodes that connect to a given node are the basis for the integration testing."
+  },
+  {
+    "front": "network zone",
+    "back": "A sub-network with a defined level of trust. For example, the Internet or a public zone would be considered to be untrusted."
+  },
+  {
+    "front": "neuron coverage",
+    "back": "The coverage of activated neurons in the neural network for a set of tests."
+  },
+  {
+    "front": "non-functional testing",
+    "back": "Testing performed to evaluate that a component or system complies with non-functional requirements."
+  },
+  {
+    "front": "non-repudiation",
+    "back": "The degree to which actions or events can be proven to have taken place, so that the actions or events cannot be repudiated later."
+  },
+  {
+    "front": "offline MBT",
+    "back": "Model-based test approach whereby test cases are generated into a repository for future execution."
+  },
+  {
+    "front": "online MBT",
+    "back": "Model-based test approach whereby test cases are generated and executed simultaneously."
+  },
+  {
+    "front": "open-source tool",
+    "back": "A software tool that is available to all potential users in source code form, usually via the internet. Its users are permitted, usually under license, to study, change, improve and, at times, to distribute the software."
+  },
+  {
+    "front": "open\u2013loop-system",
+    "back": "A system in which controlling action or input is independent of the output or changes in output."
+  },
+  {
+    "name": "operability",
+    "back": "The degree to which a component or system has attributes that make it easy to operate and control."
+  },
+  {
+    "front": "operational acceptance testing",
+    "back": "A type of acceptance testing performed to determine if operations and/or systems administration staff can accept a system."
+  },
+  {
+    "front": "operational profile",
+    "back": "An actual or predicted pattern of use of the component or system."
+  },
+  {
+    "front": "operational profiling",
+    "back": "The process of developing and implementing an operational profile."
+  },
+  {
+    "front": "organizational test strategy",
+    "back": "A strategy that describes the generic requirements for testing and how to perform testing within an organization."
+  },
+  {
+    "front": "outsourced testing",
+    "back": "A test approach in which testing is performed by people neither co-located with a project team nor fellow employees."
+  },
+  {
+    "front": "pair testing",
+    "back": "A test approach in which two team members simultaneously collaborate on testing a work product."
+  },
+  {
+    "front": "pairwise integration testing",
+    "back": "A type of integration testing that targets pairs of components that work together as shown in a call graph."
+  },
+  {
+    "front": "pairwise testing",
+    "back": "A black-box test technique in which test cases are designed to exercise pairs of parameter-value pairs."
+  },
+  {
+    "front": "par sheet testing",
+    "back": "Testing to determine that the game returns the correct mathematical results to the screen, to the players' accounts, and to the casino account."
+  },
+  {
+    "front": "pass/fail criteria",
+    "back": "Decision rules used to determine whether a test item has passed or failed."
+  },
+  {
+    "name": "passed",
+    "back": "The status of a test result if the actual result matches the expected result."
+  },
+  {
+    "front": "password cracking",
+    "back": "A security attack recovering secret passwords stored in a computer system or transmitted over a network."
+  },
+  {
+    "name": "path",
+    "back": "A sequence of consecutive edges in a directed graph."
+  },
+  {
+    "front": "peer review",
+    "back": "A type of review performed by others with the same abilities to create the work product."
+  },
+  {
+    "front": "penetration testing",
+    "back": "A testing technique aiming to exploit security vulnerabilities (known or unknown) to gain unauthorized access."
+  },
+  {
+    "front": "performance efficiency",
+    "back": "The degree to which a component or system uses time, resources and capacity when accomplishing its designated functions."
+  },
+  {
+    "front": "performance testing",
+    "back": "A type of testing to determine the performance efficiency of a component or system."
+  },
+  {
+    "front": "performance testing tool",
+    "back": "A test tool that generates load for a designated test item and that measures and records its performance during test execution."
+  },
+  {
+    "front": "perspective-based reading",
+    "back": "A review technique in which a work product is evaluated from the perspective of different stakeholders with the purpose to derive other work products."
+  },
+  {
+    "name": "pharming",
+    "back": "A security attack intended to redirect a website's traffic to a fraudulent website without the user's knowledge or consent."
+  },
+  {
+    "front": "phase containment",
+    "back": "The policy of removing defects in the same phase of the software development lifecycle in which they were introduced."
+  },
+  {
+    "name": "phishing",
+    "back": "An attempt to acquire personal or sensitive information by masquerading as a trustworthy entity in an electronic communication."
+  },
+  {
+    "front": "planning poker",
+    "back": "A consensus-based estimation technique, mostly used to estimate effort or relative size of user stories in Agile software development. It is a variation of the Wideband Delphi method using a deck of cards with values representing the units in which the team estimates."
+  },
+  {
+    "front": "player perspective testing",
+    "back": "Testing done by testers from a player's perspective to validate player satisfaction."
+  },
+  {
+    "name": "playtest",
+    "back": "Ad hoc testing of a game by players to identify failures and gather feedback."
+  },
+  {
+    "name": "portability",
+    "back": "The degree to which a component or system can be transferred from one hardware, software or other operational or usage environment to another."
+  },
+  {
+    "front": "post-release testing",
+    "back": "A test level performed after the release of a system to validate that it can be deployed in operational environments."
+  },
+  {
+    "name": "postcondition",
+    "back": "The expected state of a test item and its environment at the end of test case execution."
+  },
+  {
+    "name": "precondition",
+    "back": "The required state of a test item and its environment prior to test case execution."
+  },
+  {
+    "name": "priority",
+    "back": "The level of (business) importance assigned to an item, e.g., defect."
+  },
+  {
+    "name": "PRISMA",
+    "back": "A technique used in risk-based testing that creates a product risk matrix."
+  },
+  {
+    "front": "probe effect",
+    "back": "An unintended change in behavior of a component or system caused by measuring it."
+  },
+  {
+    "front": "process assessment",
+    "back": "A disciplined evaluation of an organization's software processes against a reference model."
+  },
+  {
+    "front": "process-compliant test strategy",
+    "back": "A test strategy whereby the test team follows a set of predefined processes, whereby the processes address such items as documentation, the proper identification and use of the test basis and test oracle(s), and the organization of the test team."
+  },
+  {
+    "front": "process-driven scripting",
+    "back": "A scripting technique where scripts are structured into scenarios which represent use cases of the software under test. The scripts can be parameterized with test data."
+  },
+  {
+    "front": "product risk",
+    "back": "A risk that impacts the quality of a product."
+  },
+  {
+    "front": "product-based quality",
+    "back": "A view of quality measured by the degree that well-defined quality characteristics are met."
+  },
+  {
+    "front": "project risk",
+    "back": "A risk that impacts project success."
+  },
+  {
+    "front": "proximity-based testing",
+    "back": "A type of testing to confirm that sensors can detect nearby objects without physical contact."
+  },
+  {
+    "front": "pseudo-oracle",
+    "back": "An independently derived variant of the test item used to generate results, which are compared with the results of the original test item based on the same test inputs."
+  },
+  {
+    "name": "quality",
+    "back": "The degree to which a work product satisfies stated and implied requirements."
+  },
+  {
+    "front": "quality assistance",
+    "back": "An approach to quality management that focuses on a quality culture throughout an organization."
+  },
+  {
+    "front": "quality assurance",
+    "back": "Activities focused on providing confidence that quality requirements will be fulfilled."
+  },
+  {
+    "front": "quality capability",
+    "back": "The abilities an organization needs to successfully accomplish its quality goals."
+  },
+  {
+    "front": "quality characteristic",
+    "back": "A category of quality attributes that bears on work product quality."
+  },
+  {
+    "front": "quality coaching",
+    "back": "The activities focused on helping an agile organization identify, understand, and deal with quality management, business value, flow of work, and customer collaboration."
+  },
+  {
+    "front": "quality control",
+    "back": "Activities designed to evaluate the quality of a component or system."
+  },
+  {
+    "front": "quality culture",
+    "back": "An organizational value system that results in an environment to establish and continually improve quality."
+  },
+  {
+    "front": "quality debt",
+    "back": "The implied cost of deferred quality assurance activities."
+  },
+  {
+    "front": "quality function deployment",
+    "back": "A facilitated workshop technique that helps determine critical characteristics for new product development."
+  },
+  {
+    "front": "quality gate",
+    "back": "A milestone that requires criteria to be met before proceeding to the next phase."
+  },
+  {
+    "front": "quality management",
+    "back": "The process of establishing and directing a quality policy, quality objectives, quality planning, quality control, quality assurance, and quality improvement for an organization."
+  },
+  {
+    "front": "quality risk",
+    "back": "A product risk or a project risk impacting quality management."
+  },
+  {
+    "front": "RACI matrix",
+    "back": "A matrix describing the participation by various roles in completing tasks or deliverables for a project or process. It is especially useful in clarifying roles and responsibilities. RACI is an acronym derived from the four key responsibilities most typically used: Responsible, Accountable, Consulted, and Informed."
+  },
+  {
+    "front": "ramp-down",
+    "back": "A technique for decreasing the load on a system in a measurable and controlled way."
+  },
+  {
+    "front": "ramp-up",
+    "back": "A technique for increasing the load on a system in a measurable and controlled way."
+  },
+  {
+    "front": "random testing",
+    "back": "A black-box test technique in which input values are randomly generated."
+  },
+  {
+    "front": "reactive test strategy",
+    "back": "A test strategy whereby the test team waits to design and implement tests until the software is received, reacting to the actual system under test."
+  },
+  {
+    "front": "reactive testing",
+    "back": "A test approach that dynamically responds to the behavior of a test object and to test results being obtained."
+  },
+  {
+    "name": "reconnaissance",
+    "back": "The exploration of a target area aiming to gain information that can be useful for an attack."
+  },
+  {
+    "name": "recoverability",
+    "back": "The degree to which a component or system can recover the data directly affected by an interruption or a failure and re-establish the desired state of the component or system."
+  },
+  {
+    "front": "regression testing",
+    "back": "A type of change-related testing to detect whether defects have been introduced or uncovered in unchanged areas of the software."
+  },
+  {
+    "front": "regression-averse test strategy",
+    "back": "A test strategy whereby the test team applies various techniques to manage the risk of regression such as functional and/or non-functional regression test automation at one or more levels."
+  },
+  {
+    "front": "regulatory acceptance testing",
+    "back": "A type of acceptance testing performed to determine the compliance of the test object."
+  },
+  {
+    "name": "reliability",
+    "back": "The degree to which a component or system performs specified functions under specified conditions for a specified period of time."
+  },
+  {
+    "front": "reliability growth model",
+    "back": "A model that shows the growth in reliability over time of a component or system as a result of the defect removal."
+  },
+  {
+    "front": "remote test lab",
+    "back": "A facility that provides remote access to a test environment."
+  },
+  {
+    "name": "replaceability",
+    "back": "The degree to which a component or system can replace another specified component or system for the same purpose in the same environment."
+  },
+  {
+    "name": "requirement",
+    "back": "A provision that contains criteria to be fulfilled."
+  },
+  {
+    "front": "requirements-based testing",
+    "back": "A test approach in which test conditions are based on requirements."
+  },
+  {
+    "front": "resource utilization",
+    "back": "The degree to which the amounts and types of resources used by a component or system, when performing its functions, meet requirements."
+  },
+  {
+    "name": "retrospective",
+    "back": "A regular event in which team members discuss results, review their practices, and identify ways to improve."
+  },
+  {
+    "name": "reusability",
+    "back": "The degree to which a work product can be used in more than one system, or in building other work products."
+  },
+  {
+    "name": "review",
+    "back": "A type of static testing in which the quality of a work product or process is evaluated by individuals."
+  },
+  {
+    "front": "review plan",
+    "back": "A document describing the approach, resources and schedule of intended review activities. It identifies, amongst others: documents and code to be reviewed, review types to be used, participants, as well as entry and exit criteria to be applied in case of formal reviews, and the rationale for their choice. It is a record of the review planning process."
+  },
+  {
+    "name": "reviewer",
+    "back": "A participant in a review who identifies defects in the work product."
+  },
+  {
+    "name": "risk",
+    "back": "A factor that could result in future negative consequences."
+  },
+  {
+    "front": "risk analysis",
+    "back": "The overall process of risk identification and risk assessment."
+  },
+  {
+    "front": "risk assessment",
+    "back": "The process to examine identified risks and determine the risk level."
+  },
+  {
+    "front": "risk control",
+    "back": "The overall process of risk mitigation and risk monitoring."
+  },
+  {
+    "front": "risk identification",
+    "back": "The process of finding, recognizing and describing risks."
+  },
+  {
+    "front": "risk impact",
+    "back": "The damage that will be caused if the risk becomes an actual outcome or event."
+  },
+  {
+    "front": "risk level",
+    "back": "The measure of a risk defined by risk impact and risk likelihood."
+  },
+  {
+    "front": "risk likelihood",
+    "back": "The probability that a risk will become an actual outcome or event."
+  },
+  {
+    "front": "risk management",
+    "back": "The process for handling risks."
+  },
+  {
+    "front": "risk mitigation",
+    "back": "The process through which decisions are reached and protective measures are implemented for reducing or maintaining risks to specified levels."
+  },
+  {
+    "front": "risk monitoring",
+    "back": "The activity that checks and reports the status of known risks to stakeholders."
+  },
+  {
+    "front": "risk-based testing",
+    "back": "A test approach in which the management, selection, prioritization, and use of test activities and resources are based on corresponding risk types and risk levels."
+  },
+  {
+    "front": "role-based review",
+    "back": "A review technique in which a work product is evaluated from the perspective of different stakeholders."
+  },
+  {
+    "front": "root cause",
+    "back": "A source of a defect such that if it is removed, the occurrence of the defect type is decreased or removed."
+  },
+  {
+    "front": "root cause analysis",
+    "back": "An analysis technique aimed at identifying the root causes of defects."
+  },
+  {
+    "front": "S.M.A.R.T. goal methodology",
+    "back": "A framework for the clear formulation of management objectives by requiring goals to be specific, measurable, attainable, relevant, and timely."
+  },
+  {
+    "front": "safety integrity level",
+    "back": "The level of risk reduction provided by a safety function, related to the frequency and severity of perceived hazards."
+  },
+  {
+    "name": "salting",
+    "back": "A cryptographic technique that adds random data (salt) to the user data prior to hashing."
+  },
+  {
+    "name": "scalability",
+    "back": "The degree to which a component or system can be adjusted for changing capacity."
+  },
+  {
+    "front": "scalability testing",
+    "back": "Testing to determine the scalability of the software product."
+  },
+  {
+    "front": "scenario-based review",
+    "back": "A review technique in which a work product is evaluated to determine its ability to address specific scenarios."
+  },
+  {
+    "front": "schema validation",
+    "back": "A type of static analysis based on a database schema."
+  },
+  {
+    "name": "scribe",
+    "back": "A person who records information at a review meeting."
+  },
+  {
+    "front": "script kiddie",
+    "back": "A person who executes security attacks that have been created by other hackers rather than creating one's own attacks."
+  },
+  {
+    "front": "scripted testing",
+    "back": "A test approach that involves the creation and use of a test script."
+  },
+  {
+    "name": "security",
+    "back": "The degree to which a component or system protects its data and resources against unauthorized access or use and secures unobstructed access and use for its legitimate users."
+  },
+  {
+    "front": "security attack",
+    "back": "An attempt to gain unauthorized access to a component or system, resources, information, or an attempt to compromise system integrity."
+  },
+  {
+    "front": "security audit",
+    "back": "An audit evaluating an organization's security processes and infrastructure."
+  },
+  {
+    "front": "security policy",
+    "back": "A high-level document describing the principles, approach and major objectives of the organization regarding security."
+  },
+  {
+    "front": "security procedure",
+    "back": "A set of steps required to implement the security policy and the steps to be taken in response to a security incident."
+  },
+  {
+    "front": "security risk",
+    "back": "A quality risk related to security."
+  },
+  {
+    "front": "security testing",
+    "back": "A type of testing to determine the security of a component or system."
+  },
+  {
+    "front": "security vulnerability",
+    "back": "A weakness in the system that could allow for a successful security attack."
+  },
+  {
+    "front": "sequential development model",
+    "back": "A type of software development lifecycle model in which a complete system is developed in a linear way of several discrete and successive phases with no overlap between them."
+  },
+  {
+    "front": "service virtualization",
+    "back": "A technique to enable virtual delivery of services which are deployed, accessed and managed remotely."
+  },
+  {
+    "front": "session-based test management",
+    "back": "A method for measuring and managing session-based testing."
+  },
+  {
+    "front": "session-based testing",
+    "back": "A test approach in which test activities are planned as test sessions."
+  },
+  {
+    "name": "severity",
+    "back": "The degree of impact that a defect has on the development or operation of a component or system."
+  },
+  {
+    "front": "shift left",
+    "back": "A test approach to perform testing and quality assurance activities as early as possible in the software development lifecycle."
+  },
+  {
+    "front": "shift right",
+    "back": "A test approach to test a system continuously in production."
+  },
+  {
+    "front": "sign change coverage",
+    "back": "The coverage of neurons activated with both positive and negative activation values in a neural network for a set of tests."
+  },
+  {
+    "front": "sign-sign coverage",
+    "back": "The coverage achieved if by changing the sign of each neuron it can be shown to individually cause one neuron in the next layer to change sign while all other neurons in the next layer do not change sign for a set of tests."
+  },
+  {
+    "name": "simulator",
+    "back": "A component or system used during testing which behaves or operates like a given component or system."
+  },
+  {
+    "front": "smoke test",
+    "back": "A test suite that covers the main functionality of a component or system to determine whether it works properly before planned testing begins."
+  },
+  {
+    "front": "social engineering",
+    "back": "An attempt to trick someone into revealing information (e.g., a password) that can be used to attack systems or networks."
+  },
+  {
+    "front": "software development lifecycle",
+    "back": "The activities performed at each stage in software development, and how they relate to one another logically and chronologically."
+  },
+  {
+    "front": "software in the loop",
+    "back": "Dynamic testing performed using real software in a simulated environment or with experimental hardware."
+  },
+  {
+    "front": "software lifecycle",
+    "back": "The period of time that begins when a software product is conceived and ends when the software is no longer available for use. The software lifecycle typically includes a concept phase, requirements phase, design phase, implementation phase, test phase, installation and checkout phase, operation and maintenance phase, and sometimes, retirement phase. Note these phases may overlap or be performed iteratively."
+  },
+  {
+    "front": "software process improvement",
+    "back": "A program of activities designed to improve the performance and maturity of the organization's software processes and the results of such a program."
+  },
+  {
+    "front": "software qualification test",
+    "back": "Testing performed on completed, integrated software to provide evidence for compliance with software requirements."
+  },
+  {
+    "front": "Software Usability Measurement Inventory",
+    "back": "A questionnaire-based usability testing tool that measures and benchmarks user experience."
+  },
+  {
+    "front": "source test case",
+    "back": "A test case that passed and is used as the basis of follow-up test cases in metamorphic testing."
+  },
+  {
+    "front": "specification by example",
+    "back": "A development technique in which the specification is defined by examples."
+  },
+  {
+    "front": "spike testing",
+    "back": "Testing to determine the ability of a system to recover from sudden bursts of peak loads and return to a steady state."
+  },
+  {
+    "front": "SQL injection",
+    "back": "A type of code injection in the structured query language (SQL)."
+  },
+  {
+    "front": "standard-compliant test strategy",
+    "back": "A test strategy whereby the test team follows a standard. Standards followed may be valid e.g., for a country (legislation standards), a business domain (domain standards), or internally (organizational standards)."
+  },
+  {
+    "front": "state transition testing",
+    "back": "A black-box test technique in which test cases are designed to exercise elements of a state transition model."
+  },
+  {
+    "front": "statement coverage",
+    "back": "The coverage of executable statements."
+  },
+  {
+    "front": "statement testing",
+    "back": "A white-box test technique in which test cases are designed to execute statements."
+  },
+  {
+    "front": "static analysis",
+    "back": "The process of evaluating a component or system without executing it, based on its form, structure, content, or documentation."
+  },
+  {
+    "front": "static testing",
+    "back": "Testing that does not involve the execution of a test item."
+  },
+  {
+    "front": "stress testing",
+    "back": "A type of performance testing conducted to evaluate a system or component at or beyond the limits of its anticipated or specified workloads, or with reduced availability of resources such as access to memory or servers."
+  },
+  {
+    "front": "structural coverage",
+    "back": "Coverage measures based on the internal structure of a component or system."
+  },
+  {
+    "front": "structured scripting",
+    "back": "A scripting technique that builds and utilizes a library of reusable (parts of) scripts."
+  },
+  {
+    "name": "stub",
+    "back": "A type of test double providing predefined responses."
+  },
+  {
+    "front": "summative evaluation",
+    "back": "A type of evaluation designed and used to gather conclusions about the quality of a component or system, especially when a substantial part of it has completed design."
+  },
+  {
+    "front": "system hardening",
+    "back": "The step-by-step process of reducing the security vulnerabilities of a system by applying a security policy and different layers of protection."
+  },
+  {
+    "front": "system integration testing",
+    "back": "The integration testing of systems."
+  },
+  {
+    "front": "system of systems",
+    "back": "Multiple heterogeneous, distributed systems that are embedded in networks at multiple levels and in multiple interconnected domains, addressing large-scale inter-disciplinary common problems and purposes, usually without a common management structure."
+  },
+  {
+    "front": "system qualification test",
+    "back": "Testing performed on the completed, integrated system of software components, hardware components, and mechanics to provide evidence for compliance with system requirements and that the complete system is ready for delivery."
+  },
+  {
+    "front": "system testing",
+    "back": "A test level that focuses on verifying that a system as a whole meets specified requirements."
+  },
+  {
+    "front": "system throughput",
+    "back": "The amount of data passing through a component or system in a given time period."
+  },
+  {
+    "front": "system under test",
+    "back": "A type of test object that is a system."
+  },
+  {
+    "front": "System Usability Scale",
+    "back": "A simple, ten-item attitude scale giving a global view of subjective assessments of usability."
+  },
+  {
+    "front": "Systematic Test and Evaluation Process",
+    "back": "A structured testing methodology also used as a content-based model for improving the testing process. It does not require that improvements occur in a specific order."
+  },
+  {
+    "front": "technical review",
+    "back": "A formal review by technical experts that examine the quality of a work product and identify discrepancies from specifications and standards."
+  },
+  {
+    "name": "test",
+    "back": "A set of one or more test cases."
+  },
+  {
+    "front": "test adaptation layer",
+    "back": "The layer in a test automation architecture which provides the necessary code to adapt test scripts on an abstract level to the various components, configuration or interfaces of the SUT."
+  },
+  {
+    "front": "test analysis",
+    "back": "The activity that identifies test conditions by analyzing the test basis."
+  },
+  {
+    "front": "test approach",
+    "back": "The manner of implementing testing tasks."
+  },
+  {
+    "front": "test architect",
+    "back": "(1) A person who provides guidance and strategic direction for a test organization and for its relationship with other disciplines. (2) A person who defines the way testing is structured for a given system, including topics such as test tools and test data management."
+  },
+  {
+    "front": "test automation",
+    "back": "The conversion of test activities to automatic operation."
+  },
+  {
+    "front": "test automation architecture",
+    "back": "An instantiation of the generic test automation architecture for a system."
+  },
+  {
+    "front": "test automation engineer",
+    "back": "A person who is responsible for the design, implementation and maintenance of a test automation architecture as well as the technical evolution of the resulting test automation solution."
+  },
+  {
+    "front": "test automation framework",
+    "back": "A set of test harnesses and test libraries for test automation."
+  },
+  {
+    "front": "test automation manager",
+    "back": "A person who is responsible for the planning and supervision of the development and evolution of a test automation solution."
+  },
+  {
+    "front": "test automation solution",
+    "back": "The implementation of a test automation architecture for a test automation assignment."
+  },
+  {
+    "front": "test automation strategy",
+    "back": "A high-level plan to achieve long-term objectives of test automation under given technological, organisational and economic conditions."
+  },
+  {
+    "front": "test basis",
+    "back": "The body of knowledge used as the basis for test analysis and design."
+  },
+  {
+    "front": "test case",
+    "back": "A set of preconditions, inputs, actions (where applicable), expected results and postconditions, developed based on test conditions."
+  },
+  {
+    "front": "test case explosion",
+    "back": "The disproportionate growth of the number of test cases with growing size of the test basis, when using a certain test design technique. Test case explosion may also happen when applying the test design technique systematically for the first time."
+  },
+  {
+    "front": "test charter",
+    "back": "Documentation of the goal or objective for a test session."
+  },
+  {
+    "front": "test closure",
+    "back": "During the test closure phase of a test process data is collected from completed activities to consolidate experience, testware, facts and numbers. The test closure phase consists of finalizing and archiving the testware and evaluating the test process, including preparation of a test evaluation report."
+  },
+  {
+    "front": "test completion",
+    "back": "The activity that makes testware available for later use, leaves test environments in a satisfactory condition and communicates the results of testing to relevant stakeholders."
+  },
+  {
+    "front": "test completion report",
+    "back": "A type of test report produced at completion milestones that provides an evaluation of the corresponding test items against exit criteria."
+  },
+  {
+    "front": "test condition",
+    "back": "A testable aspect of a component or system identified as a basis for testing."
+  },
+  {
+    "front": "test control",
+    "back": "The activity that develops and applies corrective actions to get a test project on track when it deviates from what was planned."
+  },
+  {
+    "front": "test cycle",
+    "back": "An instance of the test process against a single identifiable version of the test object."
+  },
+  {
+    "front": "test data",
+    "back": "Data needed for test execution."
+  },
+  {
+    "front": "test data management",
+    "back": "The process of providing the required test data for a component or system while ensuring compliance with legislation and standards."
+  },
+  {
+    "front": "test data preparation",
+    "back": "The activity to select data from existing databases or create, generate, manipulate and edit data for testing."
+  },
+  {
+    "front": "test definition layer",
+    "back": "The layer in a generic test automation architecture which supports test implementation by supporting the definition of test suites and/or test cases, e.g., by offering templates or guidelines."
+  },
+  {
+    "front": "test design",
+    "back": "The activity that derives and specifies test cases from test conditions."
+  },
+  {
+    "front": "test director",
+    "back": "A senior manager who manages test managers."
+  },
+  {
+    "front": "test double",
+    "back": "A replacement component invoked by a test object to perform testing."
+  },
+  {
+    "front": "test environment",
+    "back": "An environment containing hardware, instrumentation, simulators, software tools, and other support elements needed to conduct a test."
+  },
+  {
+    "front": "test estimation",
+    "back": "An approximation related to various aspects of testing."
+  },
+  {
+    "front": "test execution",
+    "back": "The activity that runs a test on a component or system producing actual results."
+  },
+  {
+    "front": "test execution automation",
+    "back": "The use of software, e.g., capture/playback tools, to control the execution of tests, the comparison of actual results to expected results, the setting up of test preconditions, and other test control and reporting functions."
+  },
+  {
+    "front": "test execution layer",
+    "back": "The layer in a generic test automation architecture which supports the execution of test suites and/or test cases."
+  },
+  {
+    "front": "test execution schedule",
+    "back": "A schedule for the execution of test suites within a test cycle."
+  },
+  {
+    "front": "test execution tool",
+    "back": "A test tool that executes tests against a designated test item and evaluates the outcomes against expected results and postconditions."
+  },
+  {
+    "front": "test fixture",
+    "back": "The predefined data and test environment to test software in a repeatable manner."
+  },
+  {
+    "front": "test generation layer",
+    "back": "The layer in a generic test automation architecture which supports manual or automated design of test suites and/or test cases."
+  },
+  {
+    "front": "test harness",
+    "back": "A collection of stubs and drivers needed to execute a test suite"
+  },
+  {
+    "front": "test histogram",
+    "back": "A visual representation of test results that shows trends from test execution."
+  },
+  {
+    "front": "test hook",
+    "back": "A customized software interface that enables automated testing of a test object."
+  },
+  {
+    "front": "test implementation",
+    "back": "The activity that prepares the testware needed for test execution based on test analysis and design."
+  },
+  {
+    "front": "test improvement plan",
+    "back": "A plan for achieving organizational test process improvement objectives based on a thorough understanding of the current strengths and weaknesses of the organization's test processes and test process assets."
+  },
+  {
+    "front": "test infrastructure",
+    "back": "The artifacts needed to perform testing, consisting of test environments, test tools, office environment and procedures."
+  },
+  {
+    "front": "test item",
+    "back": "A part of a test object used in the test process."
+  },
+  {
+    "front": "test leader",
+    "back": "On large projects, the person who reports to the test manager and is responsible for project management of a particular test level or a particular set of testing activities."
+  },
+  {
+    "front": "test level",
+    "back": "A specific instantiation of a test process."
+  },
+  {
+    "front": "test log",
+    "back": "A chronological record of relevant details about the execution of tests."
+  },
+  {
+    "front": "test logging",
+    "back": "The activity of creating a test log."
+  },
+  {
+    "front": "test management",
+    "back": "The process of planning, scheduling, estimating, monitoring, reporting, controlling, and completing test activities."
+  },
+  {
+    "front": "test management tool",
+    "back": "A tool that supports test management."
+  },
+  {
+    "front": "test manager",
+    "back": "The person responsible for project management of testing activities, resources, and evaluation of a test object."
+  },
+  {
+    "front": "Test Maturity Model integration",
+    "back": "A five-level staged framework for test process improvement, related to the Capability Maturity Model Integration (CMMI), that describes the key elements of an effective test process."
+  },
+  {
+    "front": "test mission",
+    "back": "The purpose of testing for an organization, often documented as part of the test policy."
+  },
+  {
+    "front": "test model",
+    "back": "A model describing testware that is used for testing a component or a system under test."
+  },
+  {
+    "front": "test monitoring",
+    "back": "The activity that checks the status of testing activities, identifies any variances from planned or expected, and reports status to stakeholders."
+  },
+  {
+    "front": "test object",
+    "back": "The work product to be tested."
+  },
+  {
+    "front": "test objective",
+    "back": "The purpose for testing."
+  },
+  {
+    "front": "test oracle",
+    "back": "A source to determine an expected result to compare with the actual result of the system under test."
+  },
+  {
+    "front": "test plan",
+    "back": "Documentation describing the test objectives to be achieved and the means and the schedule for achieving them, organized to coordinate testing activities."
+  },
+  {
+    "front": "test planning",
+    "back": "The activity of establishing or updating a test plan."
+  },
+  {
+    "front": "test point analysis",
+    "back": "A formula-based test estimation technique based on function point analysis."
+  },
+  {
+    "front": "test policy",
+    "back": "A high-level document describing the principles, approach and major objectives of the organization regarding testing."
+  },
+  {
+    "front": "test procedure",
+    "back": "A sequence of test cases in execution order, and any associated actions that may be required to set up the initial preconditions and any wrap up activities post execution."
+  },
+  {
+    "front": "test process",
+    "back": "The set of interrelated activities comprising of test planning, test monitoring and control, test analysis, test design, test implementation, test execution, and test completion."
+  },
+  {
+    "front": "test process group",
+    "back": "A collection of specialists who facilitate the definition, maintenance, and improvement of the test processes used by an organization."
+  },
+  {
+    "front": "test process improvement",
+    "back": "A program of activities undertaken to improve the performance and maturity of the organization's test processes."
+  },
+  {
+    "front": "test process improvement manifesto",
+    "back": "A statement that echoes the Agile manifesto, and defines values for improving the test process."
+  },
+  {
+    "front": "test process improver",
+    "back": "A person implementing improvements in the test process based on a test improvement plan."
+  },
+  {
+    "front": "test progress",
+    "back": "The progress of testing against a baseline."
+  },
+  {
+    "front": "test progress report",
+    "back": "A type of periodic test report that includes the progress of test activities against a baseline, risks, and alternatives requiring a decision."
+  },
+  {
+    "front": "test pyramid",
+    "back": "A graphical model representing the relationship of the amount of testing per level, with more at the bottom than at the top."
+  },
+  {
+    "front": "test report",
+    "back": "Documentation summarizing testing and results."
+  },
+  {
+    "front": "test reporting",
+    "back": "Collecting and analyzing data from testing activities and subsequently consolidating the data in a report to inform stakeholders."
+  },
+  {
+    "front": "test result",
+    "back": "The consequence/outcome of the execution of a test."
+  },
+  {
+    "front": "test run",
+    "back": "The execution of a test suite on a specific version of the test object."
+  },
+  {
+    "front": "test scope",
+    "back": "A description of the test object and its features to be tested."
+  },
+  {
+    "front": "test script",
+    "back": "A sequence of instructions for the execution of a test."
+  },
+  {
+    "front": "test selection criteria",
+    "back": "The criteria used to guide the generation of test cases or to select test cases in order to limit the size of a test."
+  },
+  {
+    "front": "test session",
+    "back": "An uninterrupted period of time spent in executing tests."
+  },
+  {
+    "front": "test specification",
+    "back": "The complete documentation of the test design, test cases, and test scripts for a specific test item."
+  },
+  {
+    "front": "test step",
+    "back": "A single interaction between an actor and a test object consisting of an input, an action, and an expected result."
+  },
+  {
+    "front": "test strategy",
+    "back": "A description of how to perform testing to reach test objectives under given circumstances."
+  },
+  {
+    "front": "test suite",
+    "back": "A set of test scripts or test procedures to be executed in a specific test run."
+  },
+  {
+    "front": "test technique",
+    "back": "A procedure used to define test conditions, design test cases, and specify test data."
+  },
+  {
+    "front": "test type",
+    "back": "A group of test activities based on specific test objectives aimed at specific characteristics of a component or system."
+  },
+  {
+    "front": "test-driven development",
+    "back": "A software development technique in which the test cases are developed, automated and then the software is developed incrementally to pass those test cases."
+  },
+  {
+    "front": "test-first approach",
+    "back": "An approach to software development in which the test cases are designed and implemented before the associated component or system is developed."
+  },
+  {
+    "name": "testability",
+    "back": "The degree to which test conditions can be established for a component or system, and tests can be performed to determine whether those test conditions have been met."
+  },
+  {
+    "name": "tester",
+    "back": "A person who performs testing."
+  },
+  {
+    "name": "testing",
+    "back": "The process within the software development lifecycle that evaluates the quality of a component or system and related work products."
+  },
+  {
+    "front": "testing capability",
+    "back": "The abilities an organization needs to successfully accomplish its test objectives."
+  },
+  {
+    "front": "testing in production",
+    "back": "A test type performed in the production environment with live data."
+  },
+  {
+    "front": "testing quadrants",
+    "back": "A classification model of test types/test levels in four quadrants, relating them to two dimensions of test objectives: supporting the product team versus critiquing the product, and technology-facing versus business-facing."
+  },
+  {
+    "name": "testware",
+    "back": "Work products produced during the test process for use in planning, designing, executing, evaluating and reporting on testing."
+  },
+  {
+    "front": "think aloud usability testing",
+    "back": "A usability testing technique where test participants share their thoughts with the moderator and observers by thinking aloud while they solve usability test tasks. Think aloud is useful to understand the test participant."
+  },
+  {
+    "front": "think time",
+    "back": "The amount of time required by a user to determine and execute the next action in a sequence of actions."
+  },
+  {
+    "front": "threshold coverage",
+    "back": "The coverage of neurons exceeding a threshold activation value in a neural network for a set of tests."
+  },
+  {
+    "front": "time behavior",
+    "back": "The degree to which a component or system can perform its required functions within required response times, processing times and throughput rates."
+  },
+  {
+    "front": "Total Quality Management",
+    "back": "An organization-wide management approach to quality based on employee participation to achieve long-term success through customer satisfaction."
+  },
+  {
+    "name": "tour",
+    "back": "A set of exploratory tests organized around a special focus."
+  },
+  {
+    "front": "TPI Next",
+    "back": "A continuous business-driven framework for test process improvement that describes the key elements of an effective and efficient test process."
+  },
+  {
+    "name": "traceability",
+    "back": "The ability to establish explicit relationships between related work products or items within work products."
+  },
+  {
+    "front": "traceability matrix",
+    "back": "A two-dimensional table, which correlates two entities (e.g., requirements and test cases). The table allows tracing back and forth the links of one entity to the other, thus enabling the determination of coverage achieved and the assessment of impact of proposed changes."
+  },
+  {
+    "front": "transcendent quality",
+    "back": "A view of quality based on the perception and feeling of individuals."
+  },
+  {
+    "front": "unit test framework",
+    "back": "A tool that provides an environment for unit or component testing in which a component can be tested in isolation or with suitable stubs and drivers. It also provides other support for the developer, such as debugging capabilities."
+  },
+  {
+    "name": "usability",
+    "back": "The degree to which a component or system can be used by specified users to achieve specified goals in a specified context of use."
+  },
+  {
+    "front": "usability evaluation",
+    "back": "A process through which information about the usability of a system is gathered in order to improve the system (known as formative evaluation) or to assess the merit or worth of a system (known as summative evaluation)."
+  },
+  {
+    "front": "usability lab",
+    "back": "A test facility in which unintrusive observation of participant reactions and responses to software takes place."
+  },
+  {
+    "front": "usability requirement",
+    "back": "A requirement on the usability of a component or system."
+  },
+  {
+    "front": "usability test participant",
+    "back": "A representative user who solves typical tasks in a usability test."
+  },
+  {
+    "front": "usability test script",
+    "back": "A document specifying a sequence of actions for the execution of a usability test. It is used by the moderator to keep track of briefing and pre-session interview questions, usability test tasks, and post-session interview questions."
+  },
+  {
+    "front": "usability test session",
+    "back": "A test session in usability testing in which a usability test participant is executing tests, moderated by a moderator and observed by a number of observers."
+  },
+  {
+    "front": "usability test task",
+    "back": "A usability test execution activity specified by the moderator that needs to be accomplished by a usability test participant within a given period of time."
+  },
+  {
+    "front": "usability testing",
+    "back": "Testing to evaluate the degree to which the system can be used by specified users with effectiveness, efficiency and satisfaction in a specified context of use."
+  },
+  {
+    "front": "use case testing",
+    "back": "A black-box test technique in which test cases are designed to exercise use case behaviors."
+  },
+  {
+    "front": "user acceptance testing",
+    "back": "A type of acceptance testing performed to determine if intended users accept the system."
+  },
+  {
+    "front": "user error protection",
+    "back": "The degree to which a component or system protects users against making errors."
+  },
+  {
+    "front": "user experience",
+    "back": "A person's perceptions and responses resulting from the use or anticipated use of a software product."
+  },
+  {
+    "front": "user interface",
+    "back": "All components of a system that provide information and controls for the user to accomplish specific tasks with the system."
+  },
+  {
+    "front": "user interface aesthetics",
+    "back": "The degree to which a user interface enables pleasing and satisfying interaction for the user."
+  },
+  {
+    "front": "user interface guideline",
+    "back": "A low-level, specific rule or recommendation for user interface design that leaves little room for interpretation so designers implement it similarly. It is often used to ensure consistency in the appearance and behavior of the user interface of the systems produced by an organization."
+  },
+  {
+    "front": "user story",
+    "back": "A user or business requirement consisting of one sentence expressed in the everyday or business language which is capturing the functionality a user needs, the reason behind it, any non-functional criteria, and also including acceptance criteria."
+  },
+  {
+    "front": "user story testing",
+    "back": "A black-box test technique in which test conditions are the acceptance criteria of user stories."
+  },
+  {
+    "front": "user survey",
+    "back": "A usability evaluation whereby a representative sample of users are asked to report subjective evaluation into a questionnaire based on their experience in using a component or system."
+  },
+  {
+    "front": "user-agent based testing",
+    "back": "A type of testing in which a test client is used to switch the user agent string and identify itself as a different client while executing test suites."
+  },
+  {
+    "front": "user-based quality",
+    "back": "A view of quality measured by the degree that the needs, wants, and desires of a user are met."
+  },
+  {
+    "front": "V-model",
+    "back": "A sequential software development lifecycle model describing a one-for-one relationship between major phases of software development from business requirements specification to delivery, and corresponding test levels from acceptance testing to component testing."
+  },
+  {
+    "name": "validation",
+    "back": "Confirmation by examination that a work product matches a stakeholder's needs."
+  },
+  {
+    "front": "value change coverage",
+    "back": "The coverage of neurons activated where their activation values differ by more than a change amount in the neural network for a set of tests."
+  },
+  {
+    "front": "value-based quality",
+    "back": "A view of quality measured by the ratio of the cost to the value received from a product or service."
+  },
+  {
+    "name": "verification",
+    "back": "The process of confirming that a work product fulfills its specification."
+  },
+  {
+    "front": "virtual test environment",
+    "back": "A test environment in which one or more parts are digitally simulated."
+  },
+  {
+    "front": "virtual user",
+    "back": "A simulation of activities performed according to a user operational profile."
+  },
+  {
+    "front": "visual testing",
+    "back": "Testing that uses image recognition to interact with GUI objects."
+  },
+  {
+    "front": "vulnerability scanner",
+    "back": "A static analyzer that is used to detect particular security vulnerabilities in the code."
+  },
+  {
+    "name": "walkthrough",
+    "back": "A type of review in which an author leads members of the review through a work product and the members ask questions and make comments about possible issues."
+  },
+  {
+    "front": "Web Content Accessibility Guidelines",
+    "back": "A part of a series of web accessibility guidelines published by the Web Accessibility Initiative (WAI) of the World Wide Web Consortium (W3C), the main international standards organization for the internet. They consist of a set of guidelines for making content accessible, primarily for people with disabilities."
+  },
+  {
+    "front": "Website Analysis and Measurement Inventory",
+    "back": "A commercial website analysis service providing a questionnaire for measuring user experience and assessing delivery of business goals online."
+  },
+  {
+    "front": "white-box test technique",
+    "back": "A test technique only based on the internal structure of a component or system."
+  },
+  {
+    "front": "white-box testing",
+    "back": "Testing based on an analysis of the internal structure of the component or system."
+  },
+  {
+    "front": "Wideband Delphi",
+    "back": "An expert-based test estimation technique that aims at making an accurate estimation using the collective wisdom of the team members."
+  },
+  {
+    "front": "wild pointer",
+    "back": "A pointer that references a location that is out of scope for that pointer or that does not exist."
+  },
+  {
+    "front": "XiL test environment",
+    "back": "A generalized term for dynamic testing in different virtual test environments."
+  }
+]

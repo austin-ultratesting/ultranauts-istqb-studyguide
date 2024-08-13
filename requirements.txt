@@ -1,0 +1,11 @@
+autocommand>=2.2.2
+backports.tarfile>=1.2.0
+importlib_metadata>=8.2.0
+jaraco.context>=5.3.0
+jaraco.functools>=4.0.2
+jaraco.text>=4.0.0
+more-itertools>=10.3.0
+zipp>=3.19.2
+
+selenium~=4.23.1
+jupytercards~=2.7.0a4
