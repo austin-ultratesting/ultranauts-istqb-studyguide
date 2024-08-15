@@ -8,4 +8,6 @@ more-itertools>=10.3.0
 zipp>=3.19.2
 
 selenium~=4.23.1
+jupyterlab>=4.2.4
+ipython>=8.26.0
 jupytercards~=2.7.0a4
