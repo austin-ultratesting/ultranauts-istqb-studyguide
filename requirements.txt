@@ -9,5 +9,5 @@ zipp>=3.19.2
 
 selenium~=4.23.1
 jupyterlab>=4.2.4
-ipython>=8.26.0
+ipython>=8.18.1
 jupytercards~=2.7.0a4
